@@ -1,0 +1,31 @@
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\appsettings.Development.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\appsettings.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.staticwebassets.runtime.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.exe
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.deps.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.runtimeconfig.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.dll
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\bin\Debug\net6.0\Bootstrap practice.pdb
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.csproj.AssemblyReference.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.GeneratedMSBuildEditorConfig.editorconfig
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.AssemblyInfoInputs.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.AssemblyInfo.cs
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.csproj.CoreCompileInputs.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.MvcApplicationPartsAssemblyInfo.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.RazorAssemblyInfo.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.RazorAssemblyInfo.cs
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets\msbuild.Bootstrap practice.Microsoft.AspNetCore.StaticWebAssets.props
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets\msbuild.build.Bootstrap practice.props
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bootstrap practice.props
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bootstrap practice.props
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets.pack.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets.build.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\staticwebassets.development.json
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\scopedcss\bundle\Bootstrap practice.styles.css
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\scopedcss\projectbundle\Bootstrap practice.bundle.scp.css
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.dll
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\refint\Bootstrap practice.dll
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.pdb
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\Bootstrap practice.genruntimeconfig.cache
+P:\GithubProjects\.net-6-asp.net-core-mvc-add-bootstrap-theme-\Bootstrap practice\Bootstrap practice\obj\Debug\net6.0\ref\Bootstrap practice.dll
